@@ -1,2 +1,2 @@
-# module-solution2
-Repository for Coursera HTML Course (Mod 2)
+# Repository for HTML, CSS, and Javascript Course Assignments
+Repository for Coursera HTML Course
